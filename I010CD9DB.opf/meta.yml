@@ -1,0 +1,28 @@
+id: I010CD9DB
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 15:07:14.509272+00:00
+last_modified: 2022-12-14 15:07:14.509277+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-23T18:02:40.517Z'
+  creationid: CW
+  eft-text-id: UT22084-031-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_11-The_Transcendent_Perfection_of_Wisdom_in_Ten_Thousand_Lines-v1
+bases:
+  030A:
+    source_metadata: null
+    order: 1
+    base_file: 030A.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
